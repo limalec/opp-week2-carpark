@@ -1,0 +1,16 @@
+C:\Users\ASUS\Documents\carpark\bin\Debug\net5.0\carpark.exe
+C:\Users\ASUS\Documents\carpark\bin\Debug\net5.0\carpark.deps.json
+C:\Users\ASUS\Documents\carpark\bin\Debug\net5.0\carpark.runtimeconfig.json
+C:\Users\ASUS\Documents\carpark\bin\Debug\net5.0\carpark.runtimeconfig.dev.json
+C:\Users\ASUS\Documents\carpark\bin\Debug\net5.0\carpark.dll
+C:\Users\ASUS\Documents\carpark\bin\Debug\net5.0\ref\carpark.dll
+C:\Users\ASUS\Documents\carpark\bin\Debug\net5.0\carpark.pdb
+C:\Users\ASUS\Documents\carpark\obj\Debug\net5.0\carpark.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\carpark\obj\Debug\net5.0\carpark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\carpark\obj\Debug\net5.0\carpark.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\carpark\obj\Debug\net5.0\carpark.AssemblyInfo.cs
+C:\Users\ASUS\Documents\carpark\obj\Debug\net5.0\carpark.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\carpark\obj\Debug\net5.0\carpark.dll
+C:\Users\ASUS\Documents\carpark\obj\Debug\net5.0\ref\carpark.dll
+C:\Users\ASUS\Documents\carpark\obj\Debug\net5.0\carpark.pdb
+C:\Users\ASUS\Documents\carpark\obj\Debug\net5.0\carpark.genruntimeconfig.cache
